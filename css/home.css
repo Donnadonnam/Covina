@@ -1,18 +1,1 @@
-#carouselExampleIndicators {
-    width: auto;
-    height: 400px;
-    overflow: hidden;
-    padding: 5px 0px;
-    
-}
-
-nav{
-    height: 80px;
-     box-shadow: 1px 1px 15px grey;
-    
-}
-
-img {
-    max-height: 400px;
-    max-width:  auto;
-}
+#
